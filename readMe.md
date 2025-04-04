@@ -62,8 +62,8 @@ Welcome to my personal portfolio website! This is a responsive, modern, and clea
 
 ## 📸 Screenshots
 
-![Hero Section](https://via.placeholder.com/800x400?text=Hero+Section)
-![Projects Section](https://via.placeholder.com/800x400?text=Projects+Section)
+![Hero Section](![alt text](image.png))
+![Projects Section](![alt text](image-1.png))
 
 ---
 
